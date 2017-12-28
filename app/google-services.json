@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386531019764",
+    "firebase_url": "https://glowsureapss.firebaseio.com",
+    "project_id": "glowsureapss",
+    "storage_bucket": "glowsureapss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386531019764:android:ea77134c5bc8af26",
+        "android_client_info": {
+          "package_name": "com.example.angga.glowsureapss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386531019764-kt205155hfsmmlqtseip22hreqmolrmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.angga.glowsureapss",
+            "certificate_hash": "e03b6f3093c532b72f584571ae6e3464161f4e17"
+          }
+        },
+        {
+          "client_id": "386531019764-4vpm9k2r25jqshu0ktf3av038f0r15db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5spm6WY96-yF3-52CLIpthbOK6utf6IA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386531019764-4vpm9k2r25jqshu0ktf3av038f0r15db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
